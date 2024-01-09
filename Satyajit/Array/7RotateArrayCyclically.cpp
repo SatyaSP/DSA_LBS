@@ -1,6 +1,3 @@
-//{ Driver Code Starts
-//Initial Template for C++
-
 #include <bits/stdc++.h>
 using namespace std;
 void rotate(int arr[], int n);
@@ -24,10 +21,6 @@ int main()
         return 0;
 }
 
-// } Driver Code Ends
-
-
-//User function Template for C++
 
 void rotate(int arr[], int n)
 {
